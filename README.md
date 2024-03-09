@@ -1,5 +1,6 @@
 # route-planner-project
 Final project for "Navigating Data Structures" in the Introduction to Self Driving Cars Nanodegree
+
 The project implements A* algorithm for route-planning similar to Google Maps for calculating the shortest path between two points on a map.
 
 ## Project Requirements 
